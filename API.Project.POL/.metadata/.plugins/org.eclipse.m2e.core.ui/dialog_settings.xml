@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Demo2\HP\API.Project.POL"/>
 			<item value="D:\Demo1\HP\API.Project.POL"/>
 			<item value="D:\Demo1\HP\API.Project.POL\"/>
 		</list>

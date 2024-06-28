@@ -1,7 +1,11 @@
 package com.dashboard;
 
 public class DemoDashboard {
-
+	
+	public static int DemoDashboard(int x) {
+		return x;
+	}
+	
 	public void demo1() {
 
 		System.out.println("Demo1 method is executed");
@@ -19,6 +23,8 @@ public class DemoDashboard {
 		dashboard.demo1();
 		dashboard.demo2();
 		
+		//DemoDashboard(10);
+		System.out.println(DemoDashboard(10));
 
 	}
 
