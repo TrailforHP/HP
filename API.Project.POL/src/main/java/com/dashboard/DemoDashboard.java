@@ -26,7 +26,9 @@ public class DemoDashboard {
 		//DemoDashboard(10);
 		System.out.println(DemoDashboard(10));
 
+	
 	}
+	
 
 
 
